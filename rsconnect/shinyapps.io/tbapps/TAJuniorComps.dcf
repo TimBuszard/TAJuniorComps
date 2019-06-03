@@ -1,0 +1,12 @@
+name: TAJuniorComps
+title: TAJuniorComps
+username:
+account: tbapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 958615
+bundleId: 2120170
+url: https://tbapps.shinyapps.io/TAJuniorComps/
+when: 1559278016.8611
+asMultiple: FALSE
+asStatic: FALSE
